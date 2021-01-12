@@ -1,6 +1,9 @@
 # Elite Qualifier
 
-Simple (or clever and funny?) description
+Dn't yu jst hat it wen peepole mispell?
+^ Really?
+== Don't you just hate it when people misspell? 
+If so, this application is for you.
 
 ## Table of Contents
 
