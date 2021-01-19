@@ -1,5 +1,5 @@
 # Elite Qualifier
-Here
+Goodbye
 
 HELLO
 Dn't yu jst hat it wen peepole mispell?
