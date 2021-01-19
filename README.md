@@ -1,5 +1,9 @@
 # Elite Qualifier
+
+Goodbye 1
+
 Bang
+
 
 HELLO
 Dn't yu jst hat it wen peepole mispell?
