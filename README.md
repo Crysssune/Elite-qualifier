@@ -1,5 +1,6 @@
 # Elite Qualifier
 
+HELLO
 Dn't yu jst hat it wen peepole mispell?
 ^ Really?
 == Don't you just hate it when people misspell? 
